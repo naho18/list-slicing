@@ -222,13 +222,13 @@ def delete_middle(input_list):
     input_list[2:-2] = []
 
 
-#############################################################################
-END OF MAIN EXERCISE.  Yay!  You did it! You Rock!
+# #############################################################################
+# END OF MAIN EXERCISE.  Yay!  You did it! You Rock!
 
-Please ask for a code review from an Education team member before proceeding.
+# Please ask for a code review from an Education team member before proceeding.
 #############################################################################
 
-This is the part were we actually run the doctests.
+# This is the part were we actually run the doctests.
 
 if __name__ == "__main__":
     import doctest
